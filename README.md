@@ -1,6 +1,6 @@
 # Tauri Plugin single-instance
 
-[WIP] Ensure a single instance of your tauri app is running.
+[DEPRECATED] Please use the plugin from https://github.com/tauri-apps/plugins-workspace instead.
 
 Platforms:
 - [x] Windows
